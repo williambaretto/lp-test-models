@@ -1,6 +1,6 @@
 {
   "name": "lp-test-models",
-  "version": "1.0.2",
+  "version": "1.0.2-SNAPSHOT",
   "description": "test models",
   "main": "index.js",
   "scripts": {
