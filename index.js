@@ -3,7 +3,7 @@ exports.printMsg = function (){
 	console.log("its updated now....");
 }
 
-type User = {
+export type User = {
     x: number;
     y: number;
-};
+}
