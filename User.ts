@@ -6,5 +6,5 @@ type User2 = {
     x: number;
     y: number;
 };
-
+//test
 export User;
